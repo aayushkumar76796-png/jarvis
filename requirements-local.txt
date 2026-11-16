@@ -1,0 +1,5 @@
+# OPTIONAL - only when Jarvis runs on your own PC (this is what enables PC control)
+pyautogui      # volume / media keys / typing / hotkeys
+psutil         # CPU, RAM, battery
+pyperclip      # read/write the clipboard
+pyttsx3        # offline text-to-speech

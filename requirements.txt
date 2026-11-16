@@ -1,0 +1,8 @@
+# Core - install with:  pip install -r requirements.txt
+streamlit>=1.40
+openai>=1.40
+streamlit-mic-recorder
+fpdf2
+cryptography
+pypdf
+pillow

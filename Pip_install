@@ -1,0 +1,3 @@
+pip install -r requirements.txt
+# optional, own PC only:
+pip install -r requirements-local.txt

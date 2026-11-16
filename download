@@ -1,0 +1,28 @@
+# ============ JARVIS SECRETS - never share or upload this file ============
+# Fill the keys you have, save, then restart Jarvis (or set them in Control Panel -> API Keys).
+
+# --- AI brain (needed) ---
+GROQ_API_KEY=
+OPENAI_API_KEY=
+CUSTOM_LLM_API_KEY=
+
+# --- Realistic voice (ElevenLabs) ---
+ELEVENLABS_API_KEY=
+ELEVENLABS_VOICE_ID=
+
+# --- Email alerts (Gmail: use an App Password) ---
+JARVIS_SMTP_HOST=smtp.gmail.com
+JARVIS_SMTP_PORT=587
+JARVIS_SMTP_USER=
+JARVIS_SMTP_PASS=
+JARVIS_ADMIN_EMAIL=
+
+# --- Run Jarvis on YOUR PC to let it control the PC (see Device Control page) ---
+JARVIS_LOCAL=0
+JARVIS_PC_CONTROL=1
+JARVIS_ALLOW_POWER=0
+
+# --- Optional ---
+# ADB_PATH=C:\platform-tools\adb.exe
+# JARVIS_DATA_DIR=jarvis_data
+# JARVIS_ENCRYPTION_KEY=

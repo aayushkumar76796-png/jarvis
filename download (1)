@@ -1,0 +1,5 @@
+.env
+.jarvis_key
+jarvis_data/
+__pycache__/
+*.pyc
